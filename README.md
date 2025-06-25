@@ -29,22 +29,31 @@ Como de costume aqui no Deltarune, só disponibilizamos os arquivos da traduçã
 
 ## Créditos
 
-- **chell** - Tradução / Gráficos / Revisão / dono;
-- **fely** - Tradução / Programação / Gráficos / Coordenação;
-- **shel** - Tradução;
-- **Iagomene** - Tradução;
-- **red** - Tradução / Coordenação;
-- **ralsei tradutor** - Tradução;
-- **matheus_piau** - Tradução;
-- **JV** - Coordenação;
+ **chell** - Tradução / Gráficos / Revisão / dono;
+ 
+ **fely** - Tradução / Programação / Gráficos / Coordenação;
+
+ **shel** - Tradução;
+
+ **Iagomene** - Tradução;
+ 
+ **red** - Tradução / Coordenação;
+ 
+ **ralsei tradutor** - Tradução;
+ 
+ **matheus_piau** - Tradução;
+ 
+ **JV** - Coordenação;
 
 
 Com as Vozes de...
 
-- **Ralsei tradutor** - Tenna; "ou pelomenos por enquantos"
-- **Saerena** - Vocais de (Don't Forget)
-- **KENNEMMM** - Vocais de (Raise Up Your Bat)
-- 
-(Agradecimentos Especiais: **chell** pelas fontes encontradas no projeto **New home** pela divulgação **fely** pela organização + criar o segundo servidor da Alpharune)
+ **Ralsei tradutor** - Tenna; "ou pelo menos por enquanto"
+
+ **Saerena** - Vocais de (Don't Forget)
+ 
+ **KENNEMMM** - Vocais de (Raise Up Your Bat)
+
+(Agradecimentos Especiais: **chell** por ser o dono do projeto **New home** pela divulgação **fely** pela organização + criar o segundo servidor da Alpharune)
 
 <img width="64" height="64" src="https://user-images.githubusercontent.com/28575885/134047058-652bd587-e9af-4e84-b0cd-e99c2b4ecad7.png">
