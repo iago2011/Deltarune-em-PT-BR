@@ -33,8 +33,6 @@ Como de costume aqui no Deltarune, só disponibilizamos os arquivos da traduçã
  
  **fely** - Tradução / Programação / Gráficos / Coordenação;
 
- **shel** - Tradução;
-
  **Iagomene** - Tradução;
  
  **red** - Tradução / Coordenação;
@@ -50,8 +48,6 @@ Com as Vozes de...
 
  **Ralsei tradutor** - Tenna; "ou pelo menos por enquanto"
 
- **Saerena** - Vocais de (Don't Forget)
- 
  **KENNEMMM** - Vocais de (Raise Up Your Bat)
 
 (Agradecimentos Especiais: **chell** por ser o dono do projeto **New home** pela divulgação **fely** pela organização + criar o segundo servidor da Alpharune)
